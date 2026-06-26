@@ -7,7 +7,7 @@ on:
 
 env:
   IMAGE_NAME: clo835-assignment2
-  APP_VERSION: "0.2"
+  APP_VERSION: "0.3"
 
 jobs:
   build-and-push:
